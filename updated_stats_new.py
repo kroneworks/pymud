@@ -1,5 +1,3 @@
-import pychecker.checker
-
 stats = []
 
 reroll = 'y'
